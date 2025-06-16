@@ -1,6 +1,6 @@
 # markdown
 
-Esse repositório apresenta exemplos de uso do **Markdown**. Feito em sala da disciplina de <ins>Gerência de configuração e mudanças<ins>. 😒 :face_with_thermometer:	
+Esse repositório apresenta exemplos de uso do **Markdown**. Feito em sala da disciplina de <ins>Gerência de configuração e mudanças<ins>.
 
 ## Definição
 
